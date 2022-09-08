@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+}
